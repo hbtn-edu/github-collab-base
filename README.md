@@ -1,22 +1,20 @@
-# GitHub Collaboration Workshop Repository
+# Shell, basics
 
-This repository is used in a workshop focused on learning collaboration practices with Git and GitHub using a document-based workflow.
-
-The goal is to simulate a small documentation project where multiple collaborators work on different documents, propose changes through branches and pull requests, review each other's work, and handle merge conflicts.
-
-## Project structure
-
-All editable content for this workshop lives in the `docs/` directory:
-
-- `docs/introduction.md` — Introduction to the fictional project and its purpose.
-- `docs/history.md` — History and important milestones of the project.
-- `docs/collaboration.md` — Notes about how collaboration is expected to work in this project.
-- `docs/workflow-overview.md` — High-level description of how changes are typically proposed and merged.
-
-Participants in the workshop will:
-
-- Create feature branches for specific document changes.
-- Edit these documents in a controlled way.
-- Open pull requests and review each other's work.
-- Resolve merge conflicts when they appear.
-- Tag and release specific versions of the documentation.
+0. Prints the current working directory.
+1. Lists files.
+2. Changes to home directory.
+3. Lists files in long format.
+4. Lists hidden files.
+5. Lists files with numeric IDs.
+6. Creates my_first_directory.
+7. Moves betty.
+8. Deletes betty.
+9. Deletes my_first_directory.
+10. Returns to previous directory.
+11. Lists multiple directories.
+12. Displays file type.
+13. Creates a symbolic link.
+14. Copies HTML files.
+15. Moves uppercase files.
+16. Deletes backup files.
+17. Creates nested directories.
